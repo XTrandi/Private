@@ -19,7 +19,7 @@
         <ac3passthrough default="true">true</ac3passthrough>
         <ac3transcode default="true">false</ac3transcode>
         <atempothreshold default="true">2</atempothreshold>
-        <audiodevice default="true">PI:HDMI</audiodevice>
+        <audiodevice>PULSE:Default</audiodevice>
         <boostcenter default="true">0</boostcenter>
         <channels default="true">1</channels>
         <config default="true">2</config>
